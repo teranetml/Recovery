@@ -1,0 +1,10 @@
+{
+    "autoSubmit": true,
+    "corporationCode": "VW",
+    "importWithValidation": true,
+    "jurisdictionCode": null,
+    "postLienSearchForAllDebtors": false,
+    "postLienSearchForAllSerialCollaterals": false,
+    "registrationNumber": "",
+    "transactionId": "100000000"
+}
